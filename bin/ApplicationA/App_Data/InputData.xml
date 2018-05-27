@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<record value="1" type="red"></record>
+	<record value="2" type="blue"></record>
+	<record value="3" type="green"></record>
+	<record value="4" type="red"></record>
+	<record value="5" type="blue"></record>
+	<record value="6" type="green"></record>
+	<record value="7" type="red"></record>
+	<record value="8" type="blue"></record>
+	<record value="9" type="green"></record>
+	<record value="10" type="red"></record>
+	<record value="1" type="blue"></record>
+	<record value="12" type="green"></record>
+	<record value="13" type="red"></record>
+	<record value="14" type="blue"></record>
+	<record value="15" type="green"></record>
+	<record value="16" type="red"></record>
+	<record value="17" type="blue"></record>
+	<record value="18" type="green"></record>
+</data>

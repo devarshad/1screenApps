@@ -1,2 +1,3 @@
 # 1screenApps
-1Screen app to develop
+Both Application should be started in Administrator mode.
+IN Application A, InputData is attached that can be replaced.
